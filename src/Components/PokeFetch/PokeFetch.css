@@ -30,8 +30,11 @@
 
 .pokeImg {
   width: 500px;
-  filter: brightness(0%);
+}
 
+.pokeImgDark{
+  width: 500px;
+  filter: brightness(0%);
 }
 
 .pokeName {
