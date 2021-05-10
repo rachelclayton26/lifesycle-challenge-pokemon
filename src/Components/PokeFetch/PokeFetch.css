@@ -20,6 +20,11 @@
 .timer{ 
   font-family: 'Press Start 2P', cursive;
   font-size: 3em;
+  display: block;
+}
+
+.timerOff{ 
+  display: none;
 }
 
 .pokeWrap{
